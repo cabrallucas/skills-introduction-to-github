@@ -1,3 +1,3 @@
-<ins> 
-Welcome to my github profile 
-</ins>
+
+Welcome to my Github Profile! 
+
